@@ -53,4 +53,4 @@ Marvellous CVFS> exit
 
 ## Author
 **Sakshi Pradeep Bhapkar**  
-Email: sakshibhapkar20@gmail.com
+Email: sakshi.p.bhapkar@gmail.com
