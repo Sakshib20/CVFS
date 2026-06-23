@@ -29,13 +29,13 @@ Because this project does not utilize a Makefile, you must manually compile all 
 
 1. Clone the repository and navigate to the root directory.
 2. Compile the core logic and shell interface manually:
-   \`\`\`bash
+   ```bash
    gcc src/*.c -o Myexe
-   \`\`\`
+   ```
 3. Execute the custom virtual file system[cite: 1]:
-   \`\`\`bash
+   ```bash
    ./Myexe
-   \`\`\`
+   ```
 
 ### Example Usage
 Once the custom shell is running, you can interact with the virtual environment[cite: 1]:
