@@ -13,7 +13,7 @@ This project is a custom implementation of a Virtual File System (VFS) that simu
 ## Repository Structure
 This repository utilizes a simplified structure containing only the source code and documentation:
 
-\`\`\`text
+```text
 /cvfs-project
 ├── /src          # Contains all C source files and header definitions
 └── README.md     # Project documentation
