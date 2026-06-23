@@ -17,7 +17,7 @@ This repository utilizes a simplified structure containing only the source code 
 /cvfs-project
 ├── /src          # Contains all C source files and header definitions
 └── README.md     # Project documentation
-\`\`\`
+
 
 ## Getting Started
 
